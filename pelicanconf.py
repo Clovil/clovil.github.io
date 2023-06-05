@@ -1,6 +1,9 @@
 AUTHOR = 'Raymond Halim'
 SITENAME = 'WrittenFor'
+SITESUBTITLE = 'A personal webspace.'
 SITEURL = ''
+SUMMARY_MAX_LENGTH = 200
+SUMMARY_END_SUFFIX = '...'
 
 PATH = 'content'
 
@@ -22,8 +25,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/Clovil'),
+          ('facebook', 'https://www.facebook.com/ray.f.halim/'),)
 
 DEFAULT_PAGINATION = 10
 
