@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>WrittenFor - Web</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">WrittenFor <strong>A personal webspace.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="/category/blog.html">Blog</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="/html-css-&-javascript.html">HTML, CSS & JavaScript</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2020-11-22T15:36:00+08:00">
+                Published: Sun 22 November 2020
+        </abbr>
+		<br />
+        <abbr class="modified" title="2020-11-22T15:36:00+08:00">
+                Updated: Sun 22 November 2020
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/raymond-halim.html">Raymond Halim</a>
+        </address>
+<p>In <a href="/category/blog.html">Blog</a>.</p>
+<p>tags: <a href="/tag/tech.html">Tech</a> <a href="/tag/web.html">Web</a> <a href="/tag/blog.html">Blog</a> </p>
+</footer><!-- /.post-info --><h2>HTML, CSS &amp; JavaScript</h2>
+<p>When we browse the web and stumble on websites, we are looking at how these 3 languages comprise a website.</p>
+<p>Understanding how these 3 languages (HTML, CSS &amp; JavaScript) interacts will be a key element if you are pursuing a web developer career.</p>
+<p>This is pretty much the gist of HTML, CSS, and JavaScript:</p>
+<ul>
+<li>HTML is for adding meaning to raw content by marking it up.</li>
+<li>CSS is for formatting that marked up content.</li>
+<li>JavaScript is for making that content and formatting interactive.</li>
+</ul>
+<p><br/></p>
+<h2>Examples</h2>
+<p>This is what HTML looks like for displaying a paragraph of text.</p>
+<pre><code>
+    &lt;p id='some-paragraph'&gt;
+        This is a small paragraph. A paragraph might consist more than 1 sentence. That is why I am writing this example.
+    &lt;/p&gt;
+</code></pre>
+
+<p><br/></p>
+<p>CSS example when you set the size and color of that paragraph.</p>
+<pre><code>
+    p {
+        font-size: 20px;
+        color: blue;
+    }
+</code></pre>
+
+<p>The appearance of a website is determined and controlled by HTML and CSS. In you want to have interaction within a website, that is where JavaScript takes a part in building a website.</p>
+<p>Below is an example of what happens when user clicks a paragraph that we wrote above.</p>
+<pre><code>
+    var p = document.getElementById('some-paragraph');
+
+    p.addEventListener('click', function(event) {
+            p.innerHTML = 'You clicked it!';
+        }
+    );
+</code></pre>
+
+<p>This is part 1 of Introduction of HTML and CSS. I found out that the tutorial is very friendly for beginners who wants to learn more about web development or HTML and CSS in general. HTML &amp; CSS is hard [but it doesn't have to be]</p>                </article>
+            </aside><!-- /#featured -->
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://getpelican.com/">Pelican</a></li>
+                            <li><a href="https://www.python.org/">Python.org</a></li>
+                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="https://github.com/Clovil">github</a></li>
+                            <li><a href="https://www.facebook.com/ray.f.halim/">facebook</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
