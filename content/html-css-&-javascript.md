@@ -29,22 +29,26 @@ This is pretty much the gist of HTML, CSS, and JavaScript:
 
 This is what HTML looks like for displaying a paragraph of text.
 
-<pre><code>
+<pre>
+    <code>
     &lt;p id='some-paragraph'&gt;
         This is a small paragraph. A paragraph might consist more than 1 sentence. That is why I am writing this example.
     &lt;/p&gt;
-</code></pre>
+    </code>
+</pre>
 
 <br/>
 
 CSS example when you set the size and color of that paragraph.
 
-<pre><code>
+<pre>
+    <code>
     p {
         font-size: 20px;
         color: blue;
     }
-</code></pre>
+    </code>
+</pre>
 
 The appearance of a website is determined and controlled by HTML and CSS. In you want to have interaction within a website, that is where JavaScript takes a part in building a website.
 
@@ -59,4 +63,6 @@ Below is an example of what happens when user clicks a paragraph that we wrote a
     );
 </code></pre>
 
-This is part 1 of Introduction of HTML and CSS. I found out that the tutorial is very friendly for beginners who wants to learn more about web development or HTML and CSS in general. HTML & CSS is hard [but it doesn't have to be]
+This is part 1 of Introduction of HTML and CSS. I found out that the tutorial is very friendly for beginners who wants to learn more about web development or HTML and CSS in general. HTML & CSS is hard [but it doesn't have to be].
+
+Cheers!

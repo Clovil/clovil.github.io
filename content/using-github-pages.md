@@ -54,4 +54,4 @@ I decided to use Pelican as I am familiar with Python. In order to set up Pelica
 
 <br/>
 
-That's it for this post folks! See you next time!
+Cheers!

@@ -17,8 +17,10 @@ The alarm woke me up at 07:46 AM. I intentionally set the alarm to wake me up at
 
 The result was that...
 
-None of the Apple stores was available for iPhone 12 pro store pick-up. Figures...  When I saw that there were no available iPhone 12 in store pick-up, I quickly shut off my iPad and continued to sleep.
+None of the Apple stores was available for iPhone 12 pro store pick-up. Figures...  When I saw that there were no available iPhone 12 in store pick-up, I quickly shut off my iPad and then I continued to sleep.
 
 The next time I woke up was at 12:27 due to stomachache.
 
-Then we planned to find a place to spend afternoon tea in. That was when we found out about Petit George. The coffee place is close by our apartment area. When we went inside, we did not notice that this coffee and restaurant was a really perfect place for studying.
+After awake for several minutes, we planned to find a place to study. A restaurant that provided a quiet atmosphere and served tea or coffee would be a perfect fit. That was when we found out about Petit George Cafe. The coffee place is close by. Walking distance was within 15 minutes from our apartment. When we entered the restaurant, there was another surprise that we did not expect. We did not expect that Petit George Cafe was the perfect place for us to spend our whole evening studying.
+
+Cheers!
