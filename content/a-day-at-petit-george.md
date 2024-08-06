@@ -23,4 +23,5 @@ The next time I woke up was at 12:27 due to stomachache.
 
 After awake for several minutes, we planned to find a place to study. A restaurant that provided a quiet atmosphere and served tea or coffee would be a perfect fit. That was when we found out about Petit George Cafe. The coffee place is close by. Walking distance was within 15 minutes from our apartment. When we entered the restaurant, there was another surprise that we did not expect. We did not expect that Petit George Cafe was the perfect place for us to spend our whole evening studying.
 
+
 Cheers!

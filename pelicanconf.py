@@ -1,13 +1,16 @@
 AUTHOR = 'Raymond Halim'
 SITENAME = 'WrittenFor'
 SITESUBTITLE = 'A personal webspace.'
-SITEURL = ''
+SITEURL = 'https://clovil.github.io/'
 SUMMARY_MAX_LENGTH = 200
 SUMMARY_END_SUFFIX = '...'
 
 PATH = 'content'
+STATIC_PATHS = [
+    'images'
+]
 
-TIMEZONE = 'Asia/Shanghai'
+TIMEZONE = 'Asia/Shanghai' 
 
 DEFAULT_LANG = 'en'
 
@@ -22,13 +25,15 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+         ('You can modify those links in your config file', '#'),
+        )
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/Clovil'),
-          ('facebook', 'https://www.facebook.com/ray.f.halim/'),)
+          ('facebook', 'https://www.facebook.com/ray.f.halim/'),
+        )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

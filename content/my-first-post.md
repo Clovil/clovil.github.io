@@ -13,3 +13,5 @@ status: published
 
 ## This is my first blog post 
 And it looks wonderful! 
+
+<center>![Hello world]({static}/images/hello_world.jpeg)</center>
